@@ -602,7 +602,13 @@ footer span a:hover{
     text-decoration: underline;
 }
 
-/* Cube section styling */
+.footer-logo{
+    width: 40px;
+    border-radius: 25px;
+    padding: 5px 5px 5px 5px;
+}
+
+/* Dot section styling */
 
 .dotbody{
     text-align: center;
